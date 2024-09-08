@@ -1,0 +1,25 @@
+/* Custom Styles */
+.hero-section {
+    padding: 100px 0;
+    background-color: #f8f9fa;
+  }
+  
+  .hero-section h1 {
+    font-size: 48px;
+    font-weight: bold;
+  }
+  
+  .hero-section p {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  @media (max-width: 992px) {
+    .hero-section h1 {
+      font-size: 36px;
+    }
+    .hero-section p {
+      font-size: 16px;
+    }
+  }
+  
